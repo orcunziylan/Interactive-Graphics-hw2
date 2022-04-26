@@ -1,1 +1,1 @@
-# Interactive-Graphics-hw2
+# Interactive Graphics HW2 2019 - Horse
